@@ -1,12 +1,14 @@
 # 亞述設計 AZUL Design
 
-> 2006 年成立於台北的數位數據顧問，定位「流程 × AI 落地」：從使用者研究、UI/UX、企業系統與設備 HMI，到數據與 AI 流程。案例庫收錄 90 筆案例與提案（72 筆已交付），橫跨 8 個產業；有年份證據的交付活動為 2010–2026。
+> 2006 年成立於台北的品牌 AI 化顧問：懂商業架構、消費者、電商與 OMO、數據與客戶開發。三層服務：(A) 品牌 AI 化顧問（九大模組）、(B) 設計與數位建置（使用者研究、UI/UX、企業系統、設備 HMI、品牌與官網、數據與 AI 流程）、(C) 創業導師與陪跑。自家實證品牌：1% 植物關鍵（9 個 AI 角色、L1–L3 三級人工核准）。案例庫收錄 90 筆案例與提案（72 筆已交付），橫跨 8 個產業；有年份證據的交付活動為 2010–2026。
 
 客戶名稱：僅已確認可公開者具名（飛利浦、國泰世華銀行、工業技術研究院、廣達雲達科技、台北醫學大學），其餘以產業化名呈現。所有數字的定義與算法見 /numbers/。
 
 ## 主要頁面
-- [首頁](https://www.azul.com.tw/preview/)：企業問題 → 解法互動矩陣、數字、年代軸、精選案例
-- [解決能力](https://www.azul.com.tw/preview/services/)：六層能力架構與對應案例
+- [首頁](https://www.azul.com.tw/preview/)：品牌 AI 化主張、與傳統設計公司的差別、三層服務架構、自家實證、流程、精選案例
+- [品牌 AI 化](https://www.azul.com.tw/preview/ai-brand/)：九大顧問模組、五階段流程、AI 團隊組織、治理與人工核准、1% 植物關鍵實證
+- [服務架構](https://www.azul.com.tw/preview/services/)：顧問・建置・陪跑三層架構與對應案例
+- [創業導師與陪跑](https://www.azul.com.tw/preview/mentor/)：0 到 1 路線圖與三種合作方式
 - [案例總覽](https://www.azul.com.tw/preview/cases/)：依產業／服務／年份篩選
 - [提案與研究](https://www.azul.com.tw/preview/cases/proposals/)：報價或提案階段，非已完成案例
 - [數據與算法](https://www.azul.com.tw/preview/numbers/)
