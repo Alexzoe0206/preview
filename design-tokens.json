@@ -1,0 +1,36 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "$description": "AZUL 亞述設計 V3 Design Tokens。品牌色取自正式 Logo（2022／2024 公司簡報內嵌去背 Logo）像素取樣；字體依 2024 簡報（英數 Arial、中文 Microsoft JhengHei）。",
+  "brand": {
+    "logo": {
+      "dark-bg": { "$value": "/preview/brand/azul-logo-dark-bg.png", "$description": "949×283 去背 PNG，來源：2022 公司簡報 PDF 內嵌圖（與 2024 簡報同版，332×99）" },
+      "light-bg": { "$value": "/preview/brand/azul-logo-zh-light-bg.png", "$description": "258×64 去背 PNG，來源：舊官網 assets/img/logo/logo_b.png（Wayback）" },
+      "mark": { "$value": "/preview/brand/azul-mark.png", "$description": "由正式 Logo 裁切標誌部分，未重繪" }
+    },
+    "color": {
+      "deep":  { "$type": "color", "$value": "#003890", "$description": "Logo Deep：標誌外圈深藍" },
+      "royal": { "$type": "color", "$value": "#0050A0", "$description": "Logo Royal：標誌主體藍" },
+      "azure": { "$type": "color", "$value": "#0078C0", "$description": "Logo Azure：標誌中段亮藍" },
+      "sky":   { "$type": "color", "$value": "#40A8D8", "$description": "Logo Sky：標誌高光淺藍" },
+      "ice":   { "$type": "color", "$value": "#A9DCF5", "$description": "延伸：淺冰藍，用於引言與高光" }
+    }
+  },
+  "color": {
+    "ink":  { "0": { "$type": "color", "$value": "#02040A" }, "1": { "$type": "color", "$value": "#050912" }, "2": { "$type": "color", "$value": "#0A1222" }, "3": { "$type": "color", "$value": "#101B31" } },
+    "paper": { "$type": "color", "$value": "#EEF2F8" },
+    "text": { "primary": { "$type": "color", "$value": "#EEF3FB" }, "secondary": { "$type": "color", "$value": "#A9B6CB" }, "tertiary": { "$type": "color", "$value": "#6C7A93" }, "on-paper": { "$type": "color", "$value": "#07142C" } },
+    "line": { "default": { "$type": "color", "$value": "rgba(170,196,235,0.14)" }, "strong": { "$type": "color", "$value": "rgba(222,234,252,0.55)" } }
+  },
+  "font": {
+    "sans": { "$type": "fontFamily", "$value": ["Helvetica Neue", "Arial", "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", "sans-serif"] },
+    "numeral": { "$type": "fontFamily", "$value": ["Helvetica Neue", "Arial", "sans-serif"], "$description": "大數字使用 200 字重、字距 -0.045em" }
+  },
+  "size": {
+    "display": { "$value": "clamp(2.6rem, 6.2vw, 6.2rem)" },
+    "h1": { "$value": "clamp(2.2rem, 4.6vw, 4.4rem)" },
+    "h2": { "$value": "clamp(1.75rem, 3.2vw, 3rem)" },
+    "number-xl": { "$value": "clamp(4rem, 10vw, 9.5rem)" }
+  },
+  "radius": { "s": { "$value": "10px" }, "m": { "$value": "18px" }, "l": { "$value": "28px" }, "pill": { "$value": "999px" } },
+  "layout": { "wrap": { "$value": "1360px" }, "gutter": { "$value": "clamp(20px, 4vw, 56px)" } }
+}

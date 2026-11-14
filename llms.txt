@@ -1,0 +1,17 @@
+# 亞述設計 AZUL Design
+
+> 2006 年成立於台北的數位數據顧問，定位「流程 × AI 落地」：從使用者研究、UI/UX、企業系統與設備 HMI，到數據與 AI 流程。案例庫收錄 90 筆案例與提案（72 筆已交付），橫跨 8 個產業；有年份證據的交付活動為 2010–2026。
+
+客戶名稱：僅已確認可公開者具名（飛利浦、國泰世華銀行、工業技術研究院、廣達雲達科技、台北醫學大學），其餘以產業化名呈現。所有數字的定義與算法見 /numbers/。
+
+## 主要頁面
+- [首頁](https://www.azul.com.tw/preview/)：企業問題 → 解法互動矩陣、數字、年代軸、精選案例
+- [解決能力](https://www.azul.com.tw/preview/services/)：六層能力架構與對應案例
+- [案例總覽](https://www.azul.com.tw/preview/cases/)：依產業／服務／年份篩選
+- [提案與研究](https://www.azul.com.tw/preview/cases/proposals/)：報價或提案階段，非已完成案例
+- [數據與算法](https://www.azul.com.tw/preview/numbers/)
+- [20 年歷程](https://www.azul.com.tw/preview/history/)
+- [方法論](https://www.azul.com.tw/preview/method/)
+- [AI 實驗室](https://www.azul.com.tw/preview/ai-lab/)
+- [關於](https://www.azul.com.tw/preview/about/)
+- [聯絡](https://www.azul.com.tw/preview/contact/)
